@@ -9,6 +9,15 @@ cat VIIT.txt
 ```
 grep -R SELENUX /ETC/*
 ```
+remember linux id case sensitive
+usin grep to get into directory
+```
+grep -i fireware anaconda.cfg
+```
+use this to ignore
+```
+grep -vi fireware anaconda.cfg
+```
 
 ###### less is a reader
 ```
