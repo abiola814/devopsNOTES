@@ -12,6 +12,6 @@ OSI-ISO 7 LAYER ARCHITECTURE
 6. PRESENTATION .
 7. APPLICATION .
 
-SUMMARY OF LAYER
+SUMMARY OF LAYER .
 
 ![alt summary layer](https://github.com/abiola814/devopsNOTES/blob/main/networking/img/server.png)
